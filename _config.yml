@@ -71,3 +71,8 @@ deploy:
   type: git
   repository: https://github.com/brothergang/brothergang.github.io.git
   branch: master
+
+leancloud_visitors:
+  enable: true
+  app_id: VXxmzPMaA2CYHjA6fmFsmIcs-gzGzoHsz
+  app_key: 3l4KfHi05DUik1hnd04hWPCb
